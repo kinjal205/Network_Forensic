@@ -59,10 +59,3 @@ tshark -r kinju.pcap
 tshark -Y http
 tshark -Y dns
 tshark -Z endpoints,ip
-
-##👩‍💻 Author
-
-Kinjal Varmora
-
-IMBA – Cyber Security
-Gujarat University
